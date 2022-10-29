@@ -1,4 +1,6 @@
 
+<a href="https://www.hackerrank.com/hieusmiths" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/h/58/hackerrank.svg" alt="hash.prog" height="30" width="40" /></a>  
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/hieusmiths">
