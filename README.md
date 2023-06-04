@@ -20,5 +20,5 @@
 <a href="https://www.hackerrank.com/hieusmiths" target="_blank"><img align="center" src="https://cdn.cdnlogo.com/logos/h/58/hackerrank.svg" alt="hash.prog" height="30" width="40" /></a>   -->
 
  
-
+![LeetCode Stats](https://leetcode.card.workers.dev/hieusmiths?theme=unicorn&font=source_code_pro&extension=null)
 
