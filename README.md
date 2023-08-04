@@ -2,19 +2,23 @@
  <h1 align="center">Hi 👋, I'm Hieusmiths</h1>
 <h3 align="center">A passionate frontend developer from VN</h3>
 
- ![LeetCode Stats](https://leetcode.card.workers.dev/hieusmiths?theme=unicorn&font=source_code_pro&extension=null&border=0)
- 
-<a href="https://github.com/hieusmiths">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieusmiths&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/hieusmiths">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=hieusmiths&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
+# 💻 Tech Stack:
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sd&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br>
-<br>
-<!-- 
-<a href="https://www.hackerrank.com/hieusmiths" target="_blank"><img align="center" src="https://cdn.cdnlogo.com/logos/h/58/hackerrank.svg" alt="hash.prog" height="30" width="40" /></a>   -->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
+---
+[![](https://visitcount.itsvg.in/api?id=sd&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
